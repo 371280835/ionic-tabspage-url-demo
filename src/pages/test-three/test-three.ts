@@ -27,6 +27,6 @@ export class TestThreePage {
   }
 
   onPushClick() {
-    this.navCtrl.push("TestFourPage")
+    this.navCtrl.push("DetailTabsPage")
   }
 }
